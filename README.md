@@ -65,7 +65,7 @@ Feel free to fork the repository and submit pull requests. For major changes, pl
 
 ## Contact
 
-For any inquiries, please contact [Yogesh Thakur](work.yogeshthakur@gmail.com).
+For any inquiries, please contact [Yogesh Thakur](mailto:your_email@example.com).
 
 ---
 
